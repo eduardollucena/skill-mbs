@@ -6,7 +6,7 @@ Skill para planejar, produzir e refinar vídeos publicitários e demos de produt
 
 Copie esta pasta inteira para `~/.agents/skills/skill-mbs/`, mantendo `SKILL.md`, `references/` e `agents/` juntos. Se a skill não aparecer, reinicie o Codex.
 
-Para instalar a partir deste repositório privado, primeiro aceite o convite de colaborador no GitHub e clone ou baixe o repositório com sua conta autenticada.
+Você pode clonar este repositório público ou baixá-lo em **Code → Download ZIP**, sem convite ou autenticação.
 
 ## Uso
 
